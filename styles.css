@@ -1,0 +1,25 @@
+body {
+  background-color: burlywood;
+}
+hr {
+  border-style: dotted;
+  border-color: #cc9b6d;
+  border-width: 10px;
+  border-bottom-style: none;
+  height: 0px;
+  width: 5%;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100000px;
+  object-fit: cover;
+}
+h1 {
+  color: #f7d7a2;
+}
+h3 {
+font-family: cursive;
+  color: #f7d7a2;
+}
+
