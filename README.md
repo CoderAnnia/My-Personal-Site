@@ -2,8 +2,6 @@
 
 First of all I'd like to thank [App Brewery](https://www.udemy.com/share/1013gG2@PW1gfWJbTFEJckFLC3RnVBQ=/) for showing me how to do everything and App Brewery taught me so many languages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
